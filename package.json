@@ -1,6 +1,6 @@
 {
   "name": "@circle/avsc",
-  "version": "5.4.12",
+  "version": "5.4.13",
   "description": "Avro for JavaScript",
   "homepage": "https://github.com/mtth/avsc",
   "keywords": [
@@ -53,14 +53,14 @@
   },
   "devDependencies": {
     "benchmark": "~2.1.4",
-    "coveralls": "^3.0.1",
+    "coveralls": "^3.0.4",
     "mocha": "^5.2.0",
-    "nyc": "~13.3.0",
+    "nyc": "~14.1.1",
     "tmp": "^0.0.33"
   },
   "author": {
     "name": "Matthieu Monsch",
-    "email": "monsch@alum.mit.edu"
+    "email": "mtth@apache.org"
   },
   "license": "MIT",
   "repository": {
