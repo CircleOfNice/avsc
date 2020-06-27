@@ -1,0 +1,3 @@
+[submodule ".preset"]
+	path = .preset
+	url = https://github.com/CircleOfNice/architekt-preset-default.git

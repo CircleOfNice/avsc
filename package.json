@@ -1,0 +1,8 @@
+{
+  "name": "avsc",
+  "license": "ISC",
+  "version": "0.0.1",
+  "devDependencies": {
+    "haikunator": "^2.1.2"
+  }
+}
