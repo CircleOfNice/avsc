@@ -1,0 +1,5 @@
+Architekt:
+  version: '0.0.3'
+  build_dir: build
+  name: 'avsc'
+
